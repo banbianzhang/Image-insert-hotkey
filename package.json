@@ -1,0 +1,16 @@
+{
+  "name": "image-insert-hotkey",
+  "version": "1.0.0",
+  "description": "Insert images via a configurable hotkey.",
+  "main": "main.js",
+  "scripts": {
+    "dev": "node esbuild.config.mjs",
+    "build": "tsc -noEmit -skipLibCheck && node esbuild.config.mjs production"
+  },
+  "devDependencies": {
+    "esbuild": "^0.24.0",
+    "typescript": "^5.7.0",
+    "obsidian": "^1.7.0",
+    "@types/node": "^22.0.0"
+  }
+}

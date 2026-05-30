@@ -1,0 +1,18 @@
+.image-insert-hotkey-settings .template-help-icon {
+  cursor: help;
+  margin-left: 4px;
+  opacity: 0.6;
+  color: var(--text-muted);
+}
+
+.image-insert-hotkey-settings .template-help-icon:hover {
+  opacity: 1;
+  color: var(--text-normal);
+}
+
+.image-insert-hotkey-settings .setting-item-description code {
+  background-color: var(--background-modifier-hover);
+  border-radius: var(--radius-s);
+  padding: 1px 4px;
+  font-size: 0.9em;
+}

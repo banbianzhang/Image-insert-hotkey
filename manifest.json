@@ -1,0 +1,10 @@
+{
+  "id": "image-insert-hotkey",
+  "name": "Image insert hotkey",
+  "version": "1.0.0",
+  "minAppVersion": "1.5.0",
+  "description": "Insert images via a configurable hotkey, with customizable alt text templates and path options.",
+  "author": "MeatBall",
+  "authorUrl": "",
+  "isDesktopOnly": false
+}
